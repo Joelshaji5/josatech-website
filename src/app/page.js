@@ -24,7 +24,7 @@ export default function Home() {
         <div className="content">
           <div className="title-holder">
             <h1>Get ready for the change.</h1>
-            <p>Website coming soon. Please check back to know more. Shoot us an email if you're curious.</p>
+            <p>Website coming soon. Please check back to know more. Shoot us an email if you&apos;re curious.</p>
           </div>
           <a href="mailto:josatechsolution@gmail.com">
             <div className="cta">Send us an email</div>
